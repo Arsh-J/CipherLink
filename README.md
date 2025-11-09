@@ -73,7 +73,7 @@ npm run format
 ## Contact & License
 MIT © CipherLink
 
-Maintainer: Project repository owner
+Maintainer: Arshdeep Singh
 
 ---
 Small, focused README intended for GitHub; see `TECHNICAL_DOCUMENTATION.md` for implementation and protocol details.
